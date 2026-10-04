@@ -1,13 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Deco Live updates</title>
-    <link>https://github.com/Aeastr/deco-live-releases/releases</link>
-    <description>Updates for Deco Live on macOS.</description>
-    <language>en</language>
-  </channel>
-</rss><!-- sparkle-signatures:
-edSignature: c3HqOdT6I2pZpmx7gLACbe8E92POvJx0Cc2XRMP4C5pwpDzp9iXPkjJdDlLMHeQmzf7FmJqaBd1p9mlhZIAtAg==
-length: 609
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Deco Live updates</title>
+        <link>https://github.com/Aeastr/deco-live-releases/releases</link>
+        <description>Updates for Deco Live on macOS.</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 04 Oct 2026 18:32:35 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Deco Live 1.0.0 (1)
+
+Welcome to Deco Live
+
+- Make your Mac your own with stickers on your desktop and lock screen.
+- Move, resize, rotate, and flip stickers to arrange them just how you like.
+
+Create on your Mac
+
+- Turn photos, text, and emoji into stickers with Sticker Studio.
+- Remove photo backgrounds, add outlines, and try different effects.
+- Bring Chrome, Glitter, and Holographic finishes to life as you move your pointer.
+
+Layouts for every mood
+
+- Create, duplicate, and name your sticker layouts.
+- Browse your layouts with full-screen previews, and choose which to use on your desktop and lock screen.
+- Use the same layout in both places, or give each its own look.
+
+Your sticker library
+
+- Keep your sticker library available across your devices with optional iCloud sync.
+- Turn iCloud on or off without restarting Deco Live. Your Mac layouts stay on your Mac.
+]]></description>
+            <enclosure url="https://github.com/Aeastr/deco-live-releases/releases/download/v1.0.0-1/Deco-Live-1.0.0-1.zip" length="9719104" type="application/octet-stream" sparkle:edSignature="RyuvVFdbMXM5YA2ZqHFfmRthPkJJWTdr3AWcBw+TYaAyv1N1zKk63Fii7Mu/I1cKYnshuHSPTEvrnii6IegiDA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: CZoRFI15SH/aZmAA8Sagj2TQtaPqkUGD72uEICDA1BxC3AuxvzHtVmnUlv+RWluZ6HEnbebpBt2ksYtBXT9rDg==
+length: 2203
 -->
