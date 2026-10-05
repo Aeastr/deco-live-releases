@@ -10,6 +10,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <language>en</language>
         <item>
             <title>1.0.0</title>
+            <pubDate>Mon, 05 Oct 2026 16:34:52 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Deco Live 1.0.0 (3)
+
+App updates
+
+- Automatic update checks are enabled by default.
+- Find update controls in Settings → General → Updates.
+
+Performance
+
+- Reduced background work when stickers are idle or reactions are turned off.
+- Reduced unnecessary rendering work when browsing layouts.
+]]></description>
+            <enclosure url="https://github.com/Aeastr/deco-live-releases/releases/download/v1.0.0-3/Deco-Live-1.0.0-3.zip" length="10202018" type="application/octet-stream" sparkle:edSignature="5EhiVYfVjcf1WQ5gaNHlZ99BUCCjf15ZUlk4dDgJK3oopO+t60Cj2cZOzzYfvircSTczxaiA6s6fSVWIswiADg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Mon, 05 Oct 2026 15:50:11 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -61,6 +81,6 @@ Your sticker library
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: aG/RMTotGGUCChvLv7lXkhzadeX7vwIj1V2QDbigjmhMQSa+tPJ5S9N/oQv/oeLgQ+YdXOKX3tHjk3cVCg+UAg==
-length: 3439
+edSignature: ISHpzILKxi4OduQYd+zwCnunb21gQApG2E5oHkZfozgymMtYeg7vXqyu8mA1G2UIkb7YyMqNV1AnWU7RRAnJBA==
+length: 4430
 -->
