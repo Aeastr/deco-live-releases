@@ -10,6 +10,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <language>en</language>
         <item>
             <title>1.0.0</title>
+            <pubDate>Mon, 05 Oct 2026 15:50:11 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Deco Live 1.0.0 (2)
+
+More ways to style your stickers
+- Text stickers have their own colour picker and four font styles: System, Rounded, Serif and Monospaced.
+- Sticker Studio has compact colour, font and slider controls, with font previews, black and white swatches, and a custom colour picker. Stroke colour and width are grouped together.
+- Sticker opacity can be adjusted from 10% to fully opaque.
+
+More ways to move reflections
+- Reflective stickers can respond to the pointer moving over them, with a separate Hover Movement setting.
+]]></description>
+            <enclosure url="https://github.com/Aeastr/deco-live-releases/releases/download/v1.0.0-2/Deco-Live-1.0.0-2.zip" length="10045671" type="application/octet-stream" sparkle:edSignature="AZOMyWZCnw/xoLpHt2rrx0UoQRKtVJlUyuKhUeJcbYZ8PAqTL4LzQTpSPFEHRZpjNokL6lRWMGi9yCPU0v7GDw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sun, 04 Oct 2026 18:32:35 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -43,6 +61,6 @@ Your sticker library
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: CZoRFI15SH/aZmAA8Sagj2TQtaPqkUGD72uEICDA1BxC3AuxvzHtVmnUlv+RWluZ6HEnbebpBt2ksYtBXT9rDg==
-length: 2203
+edSignature: aG/RMTotGGUCChvLv7lXkhzadeX7vwIj1V2QDbigjmhMQSa+tPJ5S9N/oQv/oeLgQ+YdXOKX3tHjk3cVCg+UAg==
+length: 3439
 -->
