@@ -10,6 +10,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <language>en</language>
         <item>
             <title>1.0.0</title>
+            <pubDate>Mon, 05 Oct 2026 20:13:34 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Deco Live 1.0.0 (4)
+
+Layouts
+
+- Export and import layouts with sticker artwork to share your arrangements.
+- Leave the Desktop or Lock Screen without a layout by turning off its assignment.
+- Reduced delays when dragging, resizing or rotating stickers in desktop layouts.
+
+Refinements
+
+- Desktop editing controls sweep out from the menu bar icon and fold back into it when dismissed.
+- More detailed performance reports help investigate lag.
+- Update controls now appear at the top of Settings → General.
+]]></description>
+            <enclosure url="https://github.com/Aeastr/deco-live-releases/releases/download/v1.0.0-4/Deco-Live-1.0.0-4.zip" length="10376181" type="application/octet-stream" sparkle:edSignature="STDUNJpACH0TDPQfOIP8h5KTqmKgYYdFg3VnR8qW2CcLUYtOR9BHQ+rKUD0ybRPIXSF6wOXNUfUPGAL0Oh4uCg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Mon, 05 Oct 2026 16:34:52 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -81,6 +103,6 @@ Your sticker library
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ISHpzILKxi4OduQYd+zwCnunb21gQApG2E5oHkZfozgymMtYeg7vXqyu8mA1G2UIkb7YyMqNV1AnWU7RRAnJBA==
-length: 4430
+edSignature: IIUQovYo+/MiPAvMETXisDZSX/iZ9PSGZKAwfHBM8opXRAAatetqHFqQAhbJ/r4KWjKNxW4wUQ6YQEaRk2JbAQ==
+length: 5632
 -->
